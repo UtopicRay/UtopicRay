@@ -30,8 +30,37 @@ Ray</a></h1>
   </a>
 </p>
 
-<h3 align="center">Connect with me 🤝 </h3>
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
 
+<table align="left" >
+<tr border="none">
+  <td width="25%" align="center">
+	<h3>VueCommerce</h1>
+    <p align="center">
+     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
+        <img align="center" width=100% src="https://portfolio-2-0-git-master-utopicrays-projects.vercel.app/assets/VueCommerce-CXfvgkIX.webp"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+<td width="25%" align="center">
+    <p align="center">
+	    <h3>My Netflix-Clone</h1>
+     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
+        <img align="center" width=100% src="https://portfolio-2-0-git-master-utopicrays-projects.vercel.app/assets/Netflix-Clon-CWfuSHxs.webp"   alt="Project_Image" /></a>
+      </p>
+    <p align="center">
+      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+    </p>       
+</td>
+  
+</tr>
+</table>
+  </div>
+<!-- Contact Section-->
+<h3 align="center">Connect with me 🤝 </h3>
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
