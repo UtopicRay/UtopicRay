@@ -39,10 +39,10 @@ Ray</a></h1>
 	<h3>VueCommerce</h1>
     <p align="center">
      <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://portfolio-2-0-git-master-utopicrays-projects.vercel.app/assets/VueCommerce-CXfvgkIX.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://portfolio-2-0-git-master-utopicrays-projects.vercel.app/assets/VueCommerce-CXfvgkIX.webp"   alt="Project_Image" /></a>
       </p>
     <p align="center">
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/UtopicRay/Vuetify-Ecommerce" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
@@ -52,7 +52,7 @@ Ray</a></h1>
         <img align="center" width=100% src="https://portfolio-2-0-git-master-utopicrays-projects.vercel.app/assets/Netflix-Clon-CWfuSHxs.webp"   alt="Project_Image" /></a>
       </p>
     <p align="center">
-      <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/UtopicRay/Mi-clon-de-Netflix" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
   
